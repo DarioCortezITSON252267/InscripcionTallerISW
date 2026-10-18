@@ -1,0 +1,10 @@
+vista\FrmInscripcionTaller$TallerRenderer.class
+modelo\InscripcionException.class
+modelo\Inscripcion.class
+modelo\ModeloInscripcion.class
+control\ControlInscripcion.class
+modelo\Taller.class
+main\InscripcionTallerISW.class
+modelo\Alumno.class
+vista\FrmInscripcionTaller.class
+vista\FrmInscripcionTaller$1.class
